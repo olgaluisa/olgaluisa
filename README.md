@@ -1,7 +1,7 @@
 ### Olá! Me chamo Olga Luisa 👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas 
-- 🌱 Atualmente estou aprendendo Node Js, Testes e Nextjs
+
 
 <div align="center">  
   <a href="https://github.com/Olgaluiisa">
